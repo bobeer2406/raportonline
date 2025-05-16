@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RaportOnline",
   "resources": {
-    "hash": "sha256-6y9tBoxX/SlE88jed1bA1qj+gTr3vG0QXJLReXGKsRY=",
+    "hash": "sha256-1/rpt7l6q0gOPQ7s+IuKvFhF9VODwbYLsARawiPEepE=",
     "fingerprinting": {
       "ChartJs.Blazor.vp2096qjn2.wasm": "ChartJs.Blazor.wasm",
       "Microsoft.AspNetCore.Components.cjt74e8cc9.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -21,7 +21,7 @@
       "Microsoft.JSInterop.WebAssembly.lsljofql11.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "netstandard.4gwubqgs2d.wasm": "netstandard.wasm",
       "Newtonsoft.Json.8gze232pcy.wasm": "Newtonsoft.Json.wasm",
-      "RaportOnline.5twoukdh9y.wasm": "RaportOnline.wasm",
+      "RaportOnline.vubkmi5ya3.wasm": "RaportOnline.wasm",
       "System.Collections.Concurrent.mw39uto3ir.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.tnbh9x5abt.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.14sj50sgu3.wasm": "System.Collections.NonGeneric.wasm",
@@ -104,7 +104,7 @@
       "Microsoft.JSInterop.WebAssembly.lsljofql11.wasm": "sha256-63bzxZLVvNOmTsso6iLrptxGmKBQh2HUIEGtPUrRPeQ=",
       "netstandard.4gwubqgs2d.wasm": "sha256-PG1lesiT3VfzOlpL0qiJPzLOm+LruImFx3hVWm2ijoQ=",
       "Newtonsoft.Json.8gze232pcy.wasm": "sha256-+DjUTQjXSh1w/MNq5yHC9l9Y7GiV+WQBmMvMjd4+OnM=",
-      "RaportOnline.5twoukdh9y.wasm": "sha256-GXreO6YRM2ZmSxOUXjiOmggbOfC6cu9D26lIu3sJH/U=",
+      "RaportOnline.vubkmi5ya3.wasm": "sha256-+VgoQGss5PO29LrIKqp6SMUECeUt2rq4bOTJw5sHfPs=",
       "System.Collections.Concurrent.mw39uto3ir.wasm": "sha256-+tFhoUrPFHHJemn+yLTFgKCYK4mLQuI4HK7TCe42INE=",
       "System.Collections.Immutable.tnbh9x5abt.wasm": "sha256-SfJK9y0mkvc/we/KH6gTBhR+Enr0K27X1nm2GBJXn/0=",
       "System.Collections.NonGeneric.14sj50sgu3.wasm": "sha256-EfqhZOrwMJgj8sXa9ZJNwKXJsJZixUDIf2pBij7vnNY=",

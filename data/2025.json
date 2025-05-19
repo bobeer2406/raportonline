@@ -1,0 +1,58 @@
+{
+  "Rachunki": [
+    {
+      "data": "2025-01-14",
+      "kategoria": "szambo",
+      "kwota": 270,
+      "opis": "Szambo styczen"
+    },
+    {
+      "data": "2025-02-06",
+      "kategoria": "PGE",
+      "kwota": 901.22,
+      "opis": "Prąd Grudzień/Styczeń"
+    },
+    {
+      "data": "2025-01-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-02-12",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Luty"
+    },
+    {
+      "data": "2025-02-13",
+      "kategoria": "Filtr",
+      "kwota": 95.40 ,
+      "opis": "Sól do filtra"
+    },
+    {
+      "data": "2025-03-06",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Marzec"
+    },
+    {
+      "data": "2025-04-01",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Kwiecień"
+    },
+    {
+      "data": "2025-04-01",
+      "kategoria": "PGE",
+      "kwota": 829.97,
+      "opis": "Prąd Luty/Marzec"
+    },
+	{
+      "data": "2025-05-05",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Maj"
+    }
+  ]
+}

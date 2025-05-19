@@ -1,0 +1,12 @@
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish2\web.config
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\web.config
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish2\RaportOnline.staticwebassets.endpoints.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish2\wwwroot\sample-data\weather.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish2\wwwroot\_framework\blazor.boot.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\publish2\RaportOnline.staticwebassets.endpoints.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\publish2\wwwroot\sample-data\weather.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\publish2\wwwroot\_framework\blazor.boot.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\RaportOnline.staticwebassets.endpoints.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\wwwroot\raportonline\sample-data\weather.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\publish3\wwwroot\raportonline\_framework\blazor.boot.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish5\web.config

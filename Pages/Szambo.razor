@@ -1,0 +1,67 @@
+@* @page "/raport"
+@inject HttpClient Http
+@using System.Text.Json
+
+<h3>Lista wydatków</h3>
+
+<p>@status</p>
+
+@if (rachunki is not null)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th>Kategoria</th>
+                <th>Kwota</th>
+                <th>Opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in rachunki)
+            {
+                <tr>
+                    <td>@r.data</td>
+                    <td>@r.kategoria</td>
+                    <td>@r.kwota</td>
+                    <td>@r.opis</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    string status = "Ładowanie danych...";
+    List<Rachunek> rachunki;
+
+    class Rachunek
+    {
+        public string data { get; set; }
+        public string kategoria { get; set; }
+        public double kwota { get; set; }
+        public string opis { get; set; }
+
+        public string waluta = "PLN";
+    }
+
+    class Root
+    {
+        public List<Rachunek> Rachunki { get; set; }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var json = await Http.GetStringAsync("https://raw.githubusercontent.com/bobeer2406/PK_Public/main/Raport/2025.json");
+            var dane = JsonSerializer.Deserialize<Root>(json);
+            rachunki = dane?.Rachunki;
+            status = "Dane załadowane.";
+        }
+        catch (Exception ex)
+        {
+            status = $"Błąd: {ex.Message}";
+        }
+    }
+} *@

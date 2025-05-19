@@ -1,0 +1,80 @@
+@page "/raport"
+@using RaportOnline.Services
+@inject RaportService Raporty
+
+<h3>Lista wydatków</h3>
+
+<p>@status</p>
+
+@if (kategorie?.Any() == true)
+{
+    <label>Filtruj wg kategorii: </label>
+    <select @onchange="FiltrujKategorie" class="form-select mb-3" style="max-width: 300px;">
+        <option value="">Wszystkie</option>
+        @foreach (var k in kategorie)
+        {
+            <option value="@k">@k</option>
+        }
+    </select>
+}
+
+@if (filtrowaneRachunki?.Any() == true)
+{
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Data</th>
+                <th>Kategoria</th>
+                <th>Kwota</th>
+                <th>Opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in filtrowaneRachunki)
+            {
+                <tr>
+                    <td>@r.data</td>
+                    <td>@r.kategoria</td>
+                    <td>@r.kwota</td>
+                    <td>@r.opis</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (status == "Dane załadowane.")
+{
+    <p><em>Brak wyników do wyświetlenia.</em></p>
+}
+
+@code {
+    string status = "Ładowanie danych...";
+    List<RaportService.Rachunek> rachunki = new();
+    List<RaportService.Rachunek> filtrowaneRachunki = new();
+    List<string> kategorie = new();
+    string wybranaKategoria = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            string url = "https://raw.githubusercontent.com/bobeer2406/raportonline/main/data/2025.json";
+
+            rachunki = await Raporty.PobierzRachunkiAsync(url);
+            filtrowaneRachunki = new List<RaportService.Rachunek>(rachunki);
+            kategorie = Raporty.PobierzKategorie(rachunki);
+
+            status = "Dane załadowane.";
+        }
+        catch (Exception ex)
+        {
+            status = $"Błąd podczas ładowania danych: {ex.Message}";
+        }
+    }
+
+    private void FiltrujKategorie(ChangeEventArgs e)
+    {
+        wybranaKategoria = e.Value?.ToString();
+        filtrowaneRachunki = Raporty.FiltrujPoKategorii(rachunki, wybranaKategoria);
+    }
+}

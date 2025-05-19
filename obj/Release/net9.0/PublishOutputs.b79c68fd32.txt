@@ -1,0 +1,5 @@
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish3\publish2\web.config
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish3\publish2\RaportOnline.staticwebassets.endpoints.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish3\publish2\wwwroot\sample-data\weather.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish3\publish2\wwwroot\_framework\blazor.boot.json
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish3\web.config

@@ -1,0 +1,1 @@
+C:\GIT\priv\Learn\Blazor\RaportOnline\publish2\web.config

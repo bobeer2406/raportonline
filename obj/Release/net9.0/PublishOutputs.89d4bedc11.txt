@@ -1,0 +1,2 @@
+C:\GIT\priv\raportonline\final\data\2025.json
+C:\GIT\priv\raportonline\final\web.config

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaportOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09c0671273a81861e3ffeb461fab7fba4cf5c4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf32060c78adb6bde80f356308ebb569c0565f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaportOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaportOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

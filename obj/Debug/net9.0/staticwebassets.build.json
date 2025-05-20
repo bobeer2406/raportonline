@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "alwxl22DT3X2pQPtuiJLdz5Bc0GHTxoT5skfDQFPvAg=",
+  "Hash": "vsI9sLIjqgDi4cUBr6IZTUUYMtYJL00cL4aaACfWllw=",
   "Source": "RaportOnline",
   "BasePath": "raportonline",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "yx4x0ftdfp",
-      "Integrity": "urynJ5W3xeHoqvOEKbRC3gfI1Wn6E+iRvJ9YKEoBg0s=",
+      "Fingerprint": "kq1l1hvtfs",
+      "Integrity": "9E6zV3M/b3jEMR3UZAdGuLZ5XnbVlim824QsrzqIF4k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "kplstehtks",
-      "Integrity": "GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI=",
+      "Fingerprint": "zq4nu06zkv",
+      "Integrity": "y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\RaportOnline.pdb"
@@ -934,8 +934,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "cy3qgzuco9",
-      "Integrity": "hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc=",
+      "Fingerprint": "fe8ju4zpll",
+      "Integrity": "R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\webcil\\RaportOnline.wasm"
@@ -8354,12 +8354,12 @@
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.CSharp.wasm"
     },
     {
-      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-cy3qgzuco9.gz",
+      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-fe8ju4zpll.gz",
       "SourceId": "RaportOnline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "raportonline",
-      "RelativePath": "_framework/RaportOnline#[.{fingerprint=cy3qgzuco9}]!.wasm.gz",
+      "RelativePath": "_framework/RaportOnline#[.{fingerprint=fe8ju4zpll}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8368,8 +8368,8 @@
       "RelatedAsset": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pglv67d46q",
-      "Integrity": "l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI=",
+      "Fingerprint": "m6voz3x738",
+      "Integrity": "Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.wasm"
@@ -8942,12 +8942,12 @@
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm"
     },
     {
-      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-kplstehtks.gz",
+      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-zq4nu06zkv.gz",
       "SourceId": "RaportOnline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "raportonline",
-      "RelativePath": "_framework/RaportOnline#[.{fingerprint=kplstehtks}]!.pdb.gz",
+      "RelativePath": "_framework/RaportOnline#[.{fingerprint=zq4nu06zkv}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8956,8 +8956,8 @@
       "RelatedAsset": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "doksyrv15j",
-      "Integrity": "rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c=",
+      "Fingerprint": "sycl187298",
+      "Integrity": "5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.pdb"
@@ -8984,7 +8984,7 @@
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.wasm"
     },
     {
-      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-yx4x0ftdfp.gz",
+      "Identity": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-kq1l1hvtfs.gz",
       "SourceId": "RaportOnline",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\",
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5jdko3pu0j",
-      "Integrity": "gZU10SpjJF5Vg8nM6QS6e2va1Ykb0mkEfL3hWAxp9xc=",
+      "Fingerprint": "3zol9e43ez",
+      "Integrity": "Ue2TmHKx7yKYFPCR7JM4CBwhS8/gXFd/Cov7haLE8Yg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -11052,11 +11052,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"urynJ5W3xeHoqvOEKbRC3gfI1Wn6E+iRvJ9YKEoBg0s=\""
+          "Value": "\"9E6zV3M/b3jEMR3UZAdGuLZ5XnbVlim824QsrzqIF4k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:18:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11066,18 +11066,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urynJ5W3xeHoqvOEKbRC3gfI1Wn6E+iRvJ9YKEoBg0s="
+          "Value": "sha256-9E6zV3M/b3jEMR3UZAdGuLZ5XnbVlim824QsrzqIF4k="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-yx4x0ftdfp.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-kq1l1hvtfs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080334190"
+          "Quality": "0.000080327737"
         }
       ],
       "ResponseHeaders": [
@@ -11087,15 +11087,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12447"
+          "Value": "12448"
         },
         {
           "Name": "ETag",
-          "Value": "\"gZU10SpjJF5Vg8nM6QS6e2va1Ykb0mkEfL3hWAxp9xc=\""
+          "Value": "\"Ue2TmHKx7yKYFPCR7JM4CBwhS8/gXFd/Cov7haLE8Yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:47:00 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11115,19 +11115,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"urynJ5W3xeHoqvOEKbRC3gfI1Wn6E+iRvJ9YKEoBg0s=\""
+          "Value": "W/\"9E6zV3M/b3jEMR3UZAdGuLZ5XnbVlim824QsrzqIF4k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urynJ5W3xeHoqvOEKbRC3gfI1Wn6E+iRvJ9YKEoBg0s="
+          "Value": "sha256-9E6zV3M/b3jEMR3UZAdGuLZ5XnbVlim824QsrzqIF4k="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-yx4x0ftdfp.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\to2z2fjsiv-kq1l1hvtfs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11136,7 +11136,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12447"
+          "Value": "12448"
         },
         {
           "Name": "Content-Type",
@@ -11144,11 +11144,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gZU10SpjJF5Vg8nM6QS6e2va1Ykb0mkEfL3hWAxp9xc=\""
+          "Value": "\"Ue2TmHKx7yKYFPCR7JM4CBwhS8/gXFd/Cov7haLE8Yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:47:00 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11166,7 +11166,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gZU10SpjJF5Vg8nM6QS6e2va1Ykb0mkEfL3hWAxp9xc="
+          "Value": "sha256-Ue2TmHKx7yKYFPCR7JM4CBwhS8/gXFd/Cov7haLE8Yg="
         }
       ]
     },
@@ -23228,7 +23228,7 @@
       ]
     },
     {
-      "Route": "_framework/RaportOnline.cy3qgzuco9.wasm",
+      "Route": "_framework/RaportOnline.fe8ju4zpll.wasm",
       "AssetFile": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23246,11 +23246,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc=\""
+          "Value": "\"R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:45 GMT"
+          "Value": "Tue, 20 May 2025 13:17:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23260,7 +23260,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cy3qgzuco9"
+          "Value": "fe8ju4zpll"
         },
         {
           "Name": "label",
@@ -23268,18 +23268,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc="
+          "Value": "sha256-R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60="
         }
       ]
     },
     {
-      "Route": "_framework/RaportOnline.cy3qgzuco9.wasm",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-cy3qgzuco9.gz",
+      "Route": "_framework/RaportOnline.fe8ju4zpll.wasm",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-fe8ju4zpll.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000078517588"
+          "Quality": "0.000078529920"
         }
       ],
       "ResponseHeaders": [
@@ -23289,15 +23289,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12735"
+          "Value": "12733"
         },
         {
           "Name": "ETag",
-          "Value": "\"l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI=\""
+          "Value": "\"Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23317,13 +23317,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc=\""
+          "Value": "W/\"R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cy3qgzuco9"
+          "Value": "fe8ju4zpll"
         },
         {
           "Name": "label",
@@ -23331,13 +23331,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc="
+          "Value": "sha256-R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60="
         }
       ]
     },
     {
-      "Route": "_framework/RaportOnline.cy3qgzuco9.wasm.gz",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-cy3qgzuco9.gz",
+      "Route": "_framework/RaportOnline.fe8ju4zpll.wasm.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-fe8ju4zpll.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23346,7 +23346,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12735"
+          "Value": "12733"
         },
         {
           "Name": "Content-Type",
@@ -23354,11 +23354,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI=\""
+          "Value": "\"Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23376,7 +23376,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cy3qgzuco9"
+          "Value": "fe8ju4zpll"
         },
         {
           "Name": "label",
@@ -23384,168 +23384,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RaportOnline.kplstehtks.pdb",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30576"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kplstehtks"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RaportOnline.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RaportOnline.kplstehtks.pdb",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-kplstehtks.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000044194988"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22626"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kplstehtks"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RaportOnline.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/RaportOnline.kplstehtks.pdb.gz",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-kplstehtks.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kplstehtks"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/RaportOnline.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c="
+          "Value": "sha256-Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc="
         }
       ]
     },
@@ -23568,11 +23407,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI=\""
+          "Value": "\"y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:45 GMT"
+          "Value": "Tue, 20 May 2025 13:17:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23582,18 +23421,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI="
+          "Value": "sha256-y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE="
         }
       ]
     },
     {
       "Route": "_framework/RaportOnline.pdb",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-kplstehtks.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-zq4nu06zkv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000044194988"
+          "Quality": "0.000044191082"
         }
       ],
       "ResponseHeaders": [
@@ -23603,15 +23442,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22626"
+          "Value": "22628"
         },
         {
           "Name": "ETag",
-          "Value": "\"rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c=\""
+          "Value": "\"5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23631,19 +23470,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI=\""
+          "Value": "W/\"y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI="
+          "Value": "sha256-y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE="
         }
       ]
     },
     {
       "Route": "_framework/RaportOnline.pdb.gz",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-kplstehtks.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-zq4nu06zkv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23652,7 +23491,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22626"
+          "Value": "22628"
         },
         {
           "Name": "Content-Type",
@@ -23660,11 +23499,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c=\""
+          "Value": "\"5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23682,7 +23521,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rTUN8MiGGLVOBs2wslkaoMsLPWle2GEgZHsdMdL3j8c="
+          "Value": "sha256-5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A="
         }
       ]
     },
@@ -23705,11 +23544,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc=\""
+          "Value": "\"R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:45 GMT"
+          "Value": "Tue, 20 May 2025 13:17:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23719,18 +23558,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc="
+          "Value": "sha256-R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60="
         }
       ]
     },
     {
       "Route": "_framework/RaportOnline.wasm",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-cy3qgzuco9.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-fe8ju4zpll.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000078517588"
+          "Quality": "0.000078529920"
         }
       ],
       "ResponseHeaders": [
@@ -23740,15 +23579,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12735"
+          "Value": "12733"
         },
         {
           "Name": "ETag",
-          "Value": "\"l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI=\""
+          "Value": "\"Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23768,19 +23607,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc=\""
+          "Value": "W/\"R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc="
+          "Value": "sha256-R4+VytHH6p9u9Awm9PNYqenN/jN92VljUfFmbclLr60="
         }
       ]
     },
     {
       "Route": "_framework/RaportOnline.wasm.gz",
-      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-cy3qgzuco9.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\q42612a860-fe8ju4zpll.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23789,7 +23628,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12735"
+          "Value": "12733"
         },
         {
           "Name": "Content-Type",
@@ -23797,11 +23636,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI=\""
+          "Value": "\"Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:01:48 GMT"
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23819,7 +23658,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l2+azKdazc68DEHbi3aEyzElw0MTF4wRNJh87jJT6bI="
+          "Value": "sha256-Io11xTDun9uDQJ9U9r3oOAgFVrYte0OTlkyBefPsssc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RaportOnline.zq4nu06zkv.pdb",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\bin\\Debug\\net9.0\\wwwroot\\_framework\\RaportOnline.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq4nu06zkv"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RaportOnline.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RaportOnline.zq4nu06zkv.pdb",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-zq4nu06zkv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044191082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22628"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq4nu06zkv"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RaportOnline.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3V+HLwuRCs+4nE3TA6uDc8KGMqPIkZvxp7fXDrhEhE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RaportOnline.zq4nu06zkv.pdb.gz",
+      "AssetFile": "C:\\GIT\\priv\\raportonline\\obj\\Debug\\net9.0\\compressed\\t6wmc644af-zq4nu06zkv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq4nu06zkv"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RaportOnline.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5OWMIIhVlSlZ240MmwXSAqmIuHdautnHWRmyYdmmK4A="
         }
       ]
     },
@@ -73182,7 +73182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73235,7 +73235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73272,7 +73272,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73319,7 +73319,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73380,7 +73380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73425,7 +73425,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 12:03:43 GMT"
+          "Value": "Tue, 20 May 2025 13:17:52 GMT"
         },
         {
           "Name": "Cache-Control",

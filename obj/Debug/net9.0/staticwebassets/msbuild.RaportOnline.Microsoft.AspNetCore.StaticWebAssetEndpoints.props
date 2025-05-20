@@ -64,13 +64,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 12:03:43 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 13:17:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="raportonline/index.togsj8zv7x.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"togsj8zv7x"},{"Name":"integrity","Value":"sha256-g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w="},{"Name":"label","Value":"raportonline/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 12:03:43 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022g7l7\u002BLGTSvac\u002BQbtV95iRm5t3z8z1nx2p2sli3kSN9w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 13:17:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="raportonline/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

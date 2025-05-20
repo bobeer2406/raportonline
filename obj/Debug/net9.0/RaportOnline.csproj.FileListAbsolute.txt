@@ -1502,10 +1502,6 @@ C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.
 C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.eej9cnpchw.wasm.gz
 C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\System.Threading.ck6tnk99mb.wasm.gz
 C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
-C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.cs0jcrqrh3.pdb
-C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.vm9yydr3mv.wasm
-C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.vm9yydr3mv.wasm.gz
-C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.cs0jcrqrh3.pdb.gz
 C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\GIT\priv\raportonline\bin\Debug\net9.0\data\2025.json
 C:\GIT\priv\raportonline\bin\Debug\net9.0\RaportOnline.staticwebassets.runtime.json
@@ -2128,9 +2124,6 @@ C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\jhv3o6cyh0-4b0q7hpvp2.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\6jslo0hsoh-tjcz0u77k5.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\oev13ilx02-tptq2av103.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\zg253n3mw2-lfu7j35m59.gz
-C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\q42612a860-vm9yydr3mv.gz
-C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\t6wmc644af-cs0jcrqrh3.gz
-C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\to2z2fjsiv-2drvbg1ezq.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\staticwebassets.build.json
 C:\GIT\priv\raportonline\obj\Debug\net9.0\staticwebassets.development.json
 C:\GIT\priv\raportonline\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -2147,7 +2140,6 @@ C:\GIT\priv\raportonline\obj\Debug\net9.0\RaportOnline.pdb
 C:\GIT\priv\raportonline\obj\Debug\net9.0\ref\RaportOnline.dll
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\l0ao7w6ctn-krmqcerafo.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\uf9ntxjlfv-8rbvw3on5j.gz
-C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\fsqg3dqzek-cl105ife54.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\dej7087m00-bqjiyaj88i.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\gs1nghc01s-c2jlpeoesf.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\2gvypzku1a-erw9l3u2r3.gz
@@ -2193,3 +2185,13 @@ C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\l20na169w0-6jus25j6zg.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\ncfx4ejhie-63fj8s7r0e.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\guudy475ie-ri4s0ob35x.gz
 C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\do0lc4u2fw-iag0ou56lh.gz
+C:\GIT\priv\raportonline\bin\Debug\net9.0\docs\sample-data\weather.json
+C:\GIT\priv\raportonline\bin\Debug\net9.0\docs\_framework\blazor.boot.json
+C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.hsh9oc20gl.pdb
+C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.i3gcllfzog.wasm
+C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.i3gcllfzog.wasm.gz
+C:\GIT\priv\raportonline\bin\Debug\net9.0\wwwroot\_framework\RaportOnline.hsh9oc20gl.pdb.gz
+C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\q42612a860-i3gcllfzog.gz
+C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\t6wmc644af-hsh9oc20gl.gz
+C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\to2z2fjsiv-453gsxg64u.gz
+C:\GIT\priv\raportonline\obj\Debug\net9.0\compressed\fsqg3dqzek-togsj8zv7x.gz

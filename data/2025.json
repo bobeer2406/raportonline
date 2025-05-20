@@ -71,6 +71,12 @@
       "kategoria": "Internet",
       "kwota": 89.99,
       "opis": "N3net"
+    },
+    {
+      "data": "2025-05-20",
+      "kategoria": "Benzyna",
+      "kwota": 420,
+      "opis": "Tankowanie Forda"
     }
   ]
 }

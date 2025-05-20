@@ -53,6 +53,31 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Maj"
+    },
+    {
+      "data": "2025-02-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-03-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-04-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    }
+    ,
+    {
+      "data": "2025-05-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
     }
   ]
 }

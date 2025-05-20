@@ -1,7 +1,7 @@
 @page "/wykres"
+@inject IJSRuntime JS
 @using RaportOnline.Services
 @inject RaportService Raporty
-@inject IJSRuntime JS
 
 <h3>Wykres wydatków</h3>
 
@@ -34,7 +34,7 @@ else if (status == "Dane załadowane.")
     List<RaportService.Rachunek> filtrowaneRachunki = new();
     List<string> kategorie = new();
     string wybranaKategoria = "";
-    bool pierwszeRenderowanie = true;
+    bool powinienRenderowacWykres = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -45,6 +45,7 @@ else if (status == "Dane załadowane.")
             filtrowaneRachunki = new List<RaportService.Rachunek>(rachunki);
             kategorie = Raporty.PobierzKategorie(rachunki);
             status = "Dane załadowane.";
+            powinienRenderowacWykres = true;
         }
         catch (Exception ex)
         {
@@ -54,19 +55,18 @@ else if (status == "Dane załadowane.")
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
-        if (firstRender)
+        if (powinienRenderowacWykres && filtrowaneRachunki.Any())
         {
+            powinienRenderowacWykres = false;
             await AktualizujWykres();
         }
     }
 
-    private async void FiltrujKategorie(ChangeEventArgs e)
+    private void FiltrujKategorie(ChangeEventArgs e)
     {
         wybranaKategoria = e.Value?.ToString();
         filtrowaneRachunki = Raporty.FiltrujPoKategorii(rachunki, wybranaKategoria);
-        StateHasChanged(); // wymuszenie renderowania DOM
-        await Task.Delay(50); // mała pauza, by DOM się zaktualizował
-        await AktualizujWykres();
+        powinienRenderowacWykres = true;
     }
 
     private async Task AktualizujWykres()

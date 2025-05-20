@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RaportOnline",
   "resources": {
-    "hash": "sha256-z9x+fDZQNCvGgno/KK8lO5joECyWLDPuZRqgB0hXoaE=",
+    "hash": "sha256-ATPIttD4/xMxYMhhjNrG8DWV15qUvUalkLrlUYTRNOQ=",
     "fingerprinting": {
       "ChartJs.Blazor.vp2096qjn2.wasm": "ChartJs.Blazor.wasm",
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -203,8 +203,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "RaportOnline.i3gcllfzog.wasm": "RaportOnline.wasm",
-      "RaportOnline.hsh9oc20gl.pdb": "RaportOnline.pdb"
+      "RaportOnline.cy3qgzuco9.wasm": "RaportOnline.wasm",
+      "RaportOnline.kplstehtks.pdb": "RaportOnline.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -416,10 +416,10 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "RaportOnline.i3gcllfzog.wasm": "sha256-gspgQZMzmQqtCRiKo72iOr5gbOqDMH4wUFAFrBgbh3k="
+      "RaportOnline.cy3qgzuco9.wasm": "sha256-hPKrzzwh2YUvCPZGoTcAKlkkU2sMoOR5+riRsMQOSgc="
     },
     "pdb": {
-      "RaportOnline.hsh9oc20gl.pdb": "sha256-r1VwRpumk36jDxaFAfE9Ylk4fu+8Qq2LzRN0rOuvvTw="
+      "RaportOnline.kplstehtks.pdb": "sha256-GB6uq2/RT8mbKwqV19NI5I5cF8j8YYenXADjqWuWOrI="
     }
   },
   "cacheBootResources": true,

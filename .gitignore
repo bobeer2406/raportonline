@@ -1,0 +1,41 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## Visual Studio
+.vs/
+*.dbmdl
+*.jfm
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## Auto-generated
+Generated_Code/
+
+## Other common
+*.cache
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Publish
+wwwroot/dist/
+publish/
+out/
+
+## GitHub Pages artifacts (if needed)
+*.publish/

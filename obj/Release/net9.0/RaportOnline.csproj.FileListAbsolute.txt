@@ -1137,8 +1137,6 @@ C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\Microsoft.Win32.R
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\mscorlib.wzkfrp7u5k.wasm
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\netstandard.d82br99ghv.wasm
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\Newtonsoft.Json.8gze232pcy.wasm
-C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.6yf6icmt86.pdb
-C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.7lp1vuxjg4.wasm
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.AppContext.brstoo7rmv.wasm
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Buffers.y31fti4j86.wasm
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Collections.Concurrent.kb0mdoldj7.wasm
@@ -1447,7 +1445,6 @@ C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Collection
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Net.Primitives.ztjd6fle53.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Collections.Specialized.utzznwyhqi.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\Microsoft.CSharp.rtelzgo5qn.wasm.gz
-C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.7lp1vuxjg4.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.c6g536946r.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Net.WebHeaderCollection.5gtd4kxeqn.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.w69ya3jgm7.wasm.gz
@@ -1473,7 +1470,6 @@ C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Xml.Serial
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.IO.MemoryMappedFiles.7rkx67p8q9.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Net.NetworkInformation.22njzxzqxw.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.IO.Pipelines.car0mfx6ea.wasm.gz
-C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.6yf6icmt86.pdb.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\Microsoft.VisualBasic.Core.rov4p20cgi.wasm.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Handles.3pucd7hj4u.wasm.gz
@@ -1925,7 +1921,6 @@ C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\mpzswgcqbu-49ox6r4gbs.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\f4ic2jk7v4-49ox6r4gbs.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\l0ao7w6ctn-krmqcerafo.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\uf9ntxjlfv-8rbvw3on5j.gz
-C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\fsqg3dqzek-cl105ife54.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\dej7087m00-bqjiyaj88i.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\gs1nghc01s-c2jlpeoesf.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\2gvypzku1a-erw9l3u2r3.gz
@@ -2176,9 +2171,6 @@ C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\jhv3o6cyh0-4b0q7hpvp2.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\6jslo0hsoh-tjcz0u77k5.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\oev13ilx02-tptq2av103.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\zg253n3mw2-lfu7j35m59.gz
-C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\q42612a860-7lp1vuxjg4.gz
-C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\t6wmc644af-6yf6icmt86.gz
-C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\to2z2fjsiv-r28fa25iuw.gz
 C:\GIT\priv\raportonline\obj\Release\net9.0\staticwebassets.build.json
 C:\GIT\priv\raportonline\obj\Release\net9.0\staticwebassets.development.json
 C:\GIT\priv\raportonline\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -2193,3 +2185,13 @@ C:\GIT\priv\raportonline\obj\Release\net9.0\RaportOnline.dll
 C:\GIT\priv\raportonline\obj\Release\net9.0\refint\RaportOnline.dll
 C:\GIT\priv\raportonline\obj\Release\net9.0\RaportOnline.pdb
 C:\GIT\priv\raportonline\obj\Release\net9.0\ref\RaportOnline.dll
+C:\GIT\priv\raportonline\bin\Release\net9.0\docs\sample-data\weather.json
+C:\GIT\priv\raportonline\bin\Release\net9.0\docs\_framework\blazor.boot.json
+C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\fsqg3dqzek-togsj8zv7x.gz
+C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.p2dr25aqkt.pdb
+C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.djnmgv26xl.wasm
+C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.djnmgv26xl.wasm.gz
+C:\GIT\priv\raportonline\bin\Release\net9.0\wwwroot\_framework\RaportOnline.p2dr25aqkt.pdb.gz
+C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\q42612a860-djnmgv26xl.gz
+C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\t6wmc644af-p2dr25aqkt.gz
+C:\GIT\priv\raportonline\obj\Release\net9.0\compressed\to2z2fjsiv-3khgma5i1o.gz

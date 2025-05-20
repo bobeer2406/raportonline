@@ -1,2 +1,4 @@
 C:\GIT\priv\raportonline\final\data\2025.json
+C:\GIT\priv\raportonline\final\docs\sample-data\weather.json
+C:\GIT\priv\raportonline\final\docs\_framework\blazor.boot.json
 C:\GIT\priv\raportonline\final\web.config

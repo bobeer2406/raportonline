@@ -1,0 +1,78 @@
+@page "/wykres"
+@inject IJSRuntime JS
+@using RaportOnline.Services
+@inject RaportService Raporty
+
+<h3>Wykres wydatków</h3>
+
+<p>@status</p>
+
+@if (kategorie?.Any() == true)
+{
+    <label>Kategoria:</label>
+    <select @onchange="FiltrujKategorie" class="form-select mb-3" style="max-width: 300px;">
+        <option value="">Wszystkie</option>
+        @foreach (var k in kategorie)
+        {
+            <option value="@k">@k</option>
+        }
+    </select>
+}
+
+@if (filtrowaneRachunki?.Any() == true)
+{
+    <canvas id="myChart" width="800" height="400"></canvas>
+}
+else if (status == "Dane załadowane.")
+{
+    <p><em>Brak danych do wyświetlenia.</em></p>
+}
+
+@code {
+    string status = "Ładowanie danych...";
+    List<RaportService.Rachunek> rachunki = new();
+    List<RaportService.Rachunek> filtrowaneRachunki = new();
+    List<string> kategorie = new();
+    string wybranaKategoria = "";
+    bool powinienRenderowacWykres = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            string url = "https://raw.githubusercontent.com/bobeer2406/raportonline/main/data/2025.json";
+            rachunki = await Raporty.PobierzRachunkiAsync(url);
+            filtrowaneRachunki = new List<RaportService.Rachunek>(rachunki);
+            kategorie = Raporty.PobierzKategorie(rachunki);
+            status = "Dane załadowane.";
+            powinienRenderowacWykres = true;
+        }
+        catch (Exception ex)
+        {
+            status = $"Błąd: {ex.Message}";
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (powinienRenderowacWykres && filtrowaneRachunki.Any())
+        {
+            powinienRenderowacWykres = false;
+            await AktualizujWykres();
+        }
+    }
+
+    private void FiltrujKategorie(ChangeEventArgs e)
+    {
+        wybranaKategoria = e.Value?.ToString();
+        filtrowaneRachunki = Raporty.FiltrujPoKategorii(rachunki, wybranaKategoria);
+        powinienRenderowacWykres = true;
+    }
+
+    private async Task AktualizujWykres()
+    {
+        var labels = filtrowaneRachunki.Select(r => r.data).ToList();
+        var data = filtrowaneRachunki.Select(r => r.kwota).ToList();
+        await JS.InvokeVoidAsync("renderChart", labels, data);
+    }
+}

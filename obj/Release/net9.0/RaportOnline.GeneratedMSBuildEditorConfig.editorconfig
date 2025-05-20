@@ -40,12 +40,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFwb3J0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/GIT/priv/raportonline/Pages/Szambo.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3phbWJvLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/GIT/priv/raportonline/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GIT/priv/raportonline/Pages/Wykres.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV3lrcmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/GIT/priv/raportonline/_Imports.razor]

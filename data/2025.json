@@ -77,6 +77,12 @@
       "kategoria": "PGE",
       "kwota": 	725.92,
       "opis": "Prąd Kwiecień/Maj"
+    },
+    {
+      "data": "2025-06-02",
+      "kategoria": "Cukierki",
+      "kwota": 	25,
+      "opis": "super cukierki"
     }
   ]
 }

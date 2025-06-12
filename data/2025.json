@@ -88,7 +88,19 @@
       "data": "2025-05-05",
       "kategoria": "Gaz",
       "kwota": 4536,
-      "opis": "Tankowanie HEM GAZ 1,89"
+      "opis": "Tankowanie HEM GAZ 1,89 - 2 500 l"
+    },
+    {
+      "data": "2025-05-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-06-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
     }
   ]
 }

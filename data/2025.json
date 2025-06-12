@@ -77,6 +77,18 @@
       "kategoria": "PGE",
       "kwota": 	725.92,
       "opis": "Prąd Kwiecień/Maj"
+    },
+	{
+      "data": "2025-06-07",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Czerwiec"
+    },
+	{
+      "data": "2025-05-05",
+      "kategoria": "Gaz",
+      "kwota": 4536,
+      "opis": "Tankowanie HEM GAZ 1,89"
     }
   ]
 }

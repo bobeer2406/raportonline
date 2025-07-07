@@ -113,6 +113,18 @@
       "kategoria": "Filtr",
       "kwota": 176.86,
       "opis": "Manganianan potasu ERLI"
+    },
+    {
+      "data": "2025-07-04",
+      "kategoria": "Honda",
+      "kwota": 270.54,
+      "opis": "Tankowanie 95"
+    },
+	{
+      "data": "2025-07-07",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Lipic"
     }
   ]
 }

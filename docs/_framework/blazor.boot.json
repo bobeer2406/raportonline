@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RaportOnline",
   "resources": {
-    "hash": "sha256-Z+NsrUYawlMdFBi9m29LfBC0IhCO+VQncj/+9IXsFv4=",
+    "hash": "sha256-lBBnKYRrsqjsOWNR6yYelnUcQrOEzSUfzTdf+0dTKfo=",
     "fingerprinting": {
       "ChartJs.Blazor.vp2096qjn2.wasm": "ChartJs.Blazor.wasm",
       "Microsoft.AspNetCore.Components.cjt74e8cc9.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -58,7 +58,7 @@
       "System.ezrw3d5kw2.wasm": "System.wasm",
       "netstandard.fre6foey5o.wasm": "netstandard.wasm",
       "System.Private.CoreLib.epomjbp1kk.wasm": "System.Private.CoreLib.wasm",
-      "RaportOnline.3eu77yfc8j.wasm": "RaportOnline.wasm",
+      "RaportOnline.deaasr4qhw.wasm": "RaportOnline.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -139,7 +139,7 @@
       "System.Xml.Linq.9s8atxe8u2.wasm": "sha256-B3Sn5WuDQKyX1cBKZwM/t4NNOIT2E8PtPWVPp/EINqE=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
       "netstandard.fre6foey5o.wasm": "sha256-xUAftD/B8KX4OKeBD0Bj7VpbHFCBn6xX53FR88O8Hus=",
-      "RaportOnline.3eu77yfc8j.wasm": "sha256-ZUu8LqoGnHW3PKfTSqylsiqeDTmi12oHqckop6sCcXE="
+      "RaportOnline.deaasr4qhw.wasm": "sha256-Jfvz/X1pC+l7HGXqU165kYj0EoJMeLCaVO82Z7HRpSg="
     }
   },
   "cacheBootResources": true,

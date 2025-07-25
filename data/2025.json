@@ -125,6 +125,12 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Lipic"
+    },
+	{
+      "data": "2025-07-25",
+      "kategoria": "Ford",
+      "kwota": 100,
+      "opis": "Przegląd 2025"
     }
   ]
 }

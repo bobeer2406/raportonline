@@ -143,6 +143,12 @@
       "kategoria": "Ford",
       "kwota": 100,
       "opis": "Przegląd 2025"
+    },
+  	{
+      "data": "2025-07-29",
+      "kategoria": "Ford",
+      "kwota": 437,
+      "opis": "ON Tankowanie"
     }
   ]
 }

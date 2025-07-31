@@ -149,6 +149,12 @@
       "kategoria": "Ford",
       "kwota": 437,
       "opis": "ON Tankowanie"
+    },
+  	{
+      "data": "2025-07-31",
+      "kategoria": "PGE",
+      "kwota": 738.15 ,
+      "opis": "Prąd Czerwiec/Lipiec"
     }
   ]
 }

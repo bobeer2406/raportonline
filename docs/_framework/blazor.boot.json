@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RaportOnline",
   "resources": {
-    "hash": "sha256-lBBnKYRrsqjsOWNR6yYelnUcQrOEzSUfzTdf+0dTKfo=",
+    "hash": "sha256-BDZdVwz0jPdWKfCtZBoQlPV7ZyUO5o3HJ85FSO/t3MM=",
     "fingerprinting": {
       "ChartJs.Blazor.vp2096qjn2.wasm": "ChartJs.Blazor.wasm",
       "Microsoft.AspNetCore.Components.cjt74e8cc9.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -36,7 +36,7 @@
       "System.Drawing.e1q21ukgul.wasm": "System.Drawing.wasm",
       "System.IO.Pipelines.3p3f5vckx6.wasm": "System.IO.Pipelines.wasm",
       "System.Linq.Expressions.gaencljf3g.wasm": "System.Linq.Expressions.wasm",
-      "System.Linq.vh7xgxtlg2.wasm": "System.Linq.wasm",
+      "System.Linq.lyfw10l9xl.wasm": "System.Linq.wasm",
       "System.Memory.ddx3v4m9gx.wasm": "System.Memory.wasm",
       "System.Net.Http.Json.rjh6ihdw3m.wasm": "System.Net.Http.Json.wasm",
       "System.Net.Http.sysf03ia29.wasm": "System.Net.Http.wasm",
@@ -58,7 +58,7 @@
       "System.ezrw3d5kw2.wasm": "System.wasm",
       "netstandard.fre6foey5o.wasm": "netstandard.wasm",
       "System.Private.CoreLib.epomjbp1kk.wasm": "System.Private.CoreLib.wasm",
-      "RaportOnline.deaasr4qhw.wasm": "RaportOnline.wasm",
+      "RaportOnline.2hie6o85a1.wasm": "RaportOnline.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -119,7 +119,7 @@
       "System.Drawing.e1q21ukgul.wasm": "sha256-UgmupMAr6ZNEzs9lDBX+BpCRqNkmfFv1kxoruuR2UWs=",
       "System.IO.Pipelines.3p3f5vckx6.wasm": "sha256-d4Fv2UP7j+pqOrhljw06Xjdf1UB0VVgcWQAZYM+e2Ak=",
       "System.Linq.Expressions.gaencljf3g.wasm": "sha256-GJhqkACXk8NpcVTAEqQJVXV6hbtQlADPnZC2i8YZHbw=",
-      "System.Linq.vh7xgxtlg2.wasm": "sha256-M+goBCKqTJdQRtt4R0Yynbnip2Th3x8zbJKTuJawnSQ=",
+      "System.Linq.lyfw10l9xl.wasm": "sha256-M7YtGC8T0YypKmEFdnE+2A+XMouMpUrRkiQEtwiWHkA=",
       "System.Memory.ddx3v4m9gx.wasm": "sha256-T4V4WK4ivondTGxxmpFrh6FtW5g8YISuktRz5K9Bp1E=",
       "System.Net.Http.Json.rjh6ihdw3m.wasm": "sha256-V6TNXhuZhlRU6A9LV0J2nSnl2/p1zAQ2QR30a2Fyu8c=",
       "System.Net.Http.sysf03ia29.wasm": "sha256-nDNxd7bTWd+w7Dgf/KugfUAwe0CzA8CD5MOczuoMkt0=",
@@ -139,7 +139,7 @@
       "System.Xml.Linq.9s8atxe8u2.wasm": "sha256-B3Sn5WuDQKyX1cBKZwM/t4NNOIT2E8PtPWVPp/EINqE=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
       "netstandard.fre6foey5o.wasm": "sha256-xUAftD/B8KX4OKeBD0Bj7VpbHFCBn6xX53FR88O8Hus=",
-      "RaportOnline.deaasr4qhw.wasm": "sha256-Jfvz/X1pC+l7HGXqU165kYj0EoJMeLCaVO82Z7HRpSg="
+      "RaportOnline.2hie6o85a1.wasm": "sha256-+sQumSbCjhGmhmAwq0r6zw+smH6gy8+cON5mLtNiRws="
     }
   },
   "cacheBootResources": true,

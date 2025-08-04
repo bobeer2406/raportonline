@@ -71,6 +71,90 @@
       "kategoria": "Internet",
       "kwota": 89.99,
       "opis": "N3net"
+    },
+    {
+      "data": "2025-06-02",
+      "kategoria": "PGE",
+      "kwota": 	725.92,
+      "opis": "Prąd Kwiecień/Maj"
+    },
+	{
+      "data": "2025-06-07",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Czerwiec"
+    },
+	{
+      "data": "2025-05-05",
+      "kategoria": "Gaz",
+      "kwota": 4536,
+      "opis": "Tankowanie HEM GAZ 1,89 - 2 500 l"
+    },
+    {
+      "data": "2025-05-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-06-10",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-06-29",
+      "kategoria": "Ford",
+      "kwota": 411.07,
+      "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2025-07-01",
+      "kategoria": "Filtr",
+      "kwota": 176.86,
+      "opis": "Manganianan potasu ERLI"
+    },
+    {
+      "data": "2025-07-04",
+      "kategoria": "Honda",
+      "kwota": 270.54,
+      "opis": "Tankowanie 95"
+    },
+  	{
+      "data": "2025-07-07",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Lipic"
+    },
+  	{
+      "data": "2025-07-13",
+      "kategoria": "Ford",
+      "kwota": 423,
+      "opis": "ON Tankowanie"
+    },
+  	{
+      "data": "2025-07-14",
+      "kategoria": "Miód",
+      "kwota": 200,
+      "opis": "5x40 miód Ernest"
+    },
+  	{
+      "data": "2025-07-25",
+      "kategoria": "Ford",
+      "kwota": 100,
+      "opis": "Przegląd 2025"
+    },
+  	{
+      "data": "2025-07-29",
+      "kategoria": "Ford",
+      "kwota": 437,
+      "opis": "ON Tankowanie"
+    },
+  	{
+      "data": "2025-07-31",
+      "kategoria": "PGE",
+      "kwota": 738.15 ,
+      "opis": "Prąd Czerwiec/Lipiec"
     }
   ]
 }

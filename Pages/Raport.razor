@@ -60,7 +60,9 @@ else if (status == "Dane załadowane.")
         {
             string url = "https://raw.githubusercontent.com/bobeer2406/raportonline/main/data/2025.json";
 
-            rachunki = await Raporty.PobierzRachunkiAsync(url);
+            rachunki = (await Raporty.PobierzRachunkiAsync(url))
+               .OrderByDescending(r => r.data)
+               .ToList();
             filtrowaneRachunki = new List<RaportService.Rachunek>(rachunki);
             kategorie = Raporty.PobierzKategorie(rachunki);
 

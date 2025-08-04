@@ -34,6 +34,7 @@ Generated_Code/
 
 ## Publish
 wwwroot/dist/
+wwwroot/
 publish/
 out/
 

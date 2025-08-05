@@ -155,6 +155,18 @@
       "kategoria": "PGE",
       "kwota": 738.15 ,
       "opis": "Prąd Czerwiec/Lipiec"
+    },
+    {
+      "data": "2025-07-01",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
+    },
+    {
+      "data": "2025-08-01",
+      "kategoria": "Internet",
+      "kwota": 89.99,
+      "opis": "N3net"
     }
   ]
 }

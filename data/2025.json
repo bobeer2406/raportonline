@@ -167,6 +167,12 @@
       "kategoria": "Internet",
       "kwota": 89.99,
       "opis": "N3net"
+    },
+    {
+      "data": "2025-08-12",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Sierpień"
     }
   ]
 }

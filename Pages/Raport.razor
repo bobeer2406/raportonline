@@ -35,13 +35,21 @@
                 <tr>
                     <td>@r.data</td>
                     <td>@r.kategoria</td>
-                    <td>@r.kwota</td>
+                    <td>@r.kwota.ToString("N2", new System.Globalization.CultureInfo("pl-PL")) zł</td>
                     <td>@r.opis</td>
                 </tr>
             }
         </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="2">Suma</th>
+                <th>@filtrowaneRachunki.Sum(r => r.kwota).ToString("N2", new System.Globalization.CultureInfo("pl-PL")) zł</th>
+                <th></th>
+            </tr>
+        </tfoot>
     </table>
 }
+
 else if (status == "Dane załadowane.")
 {
     <p><em>Brak wyników do wyświetlenia.</em></p>

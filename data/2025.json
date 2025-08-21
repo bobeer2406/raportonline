@@ -173,6 +173,18 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Sierpień"
+    },
+    {
+      "data": "2025-08-20",
+      "kategoria": "Ford",
+      "kwota": 390,
+      "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2025-08-17",
+      "kategoria": "Honda",
+      "kwota": 257.80,
+      "opis": "Tankowanie"
     }
   ]
 }

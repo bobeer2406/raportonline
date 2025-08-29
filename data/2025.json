@@ -185,6 +185,12 @@
       "kategoria": "Honda",
       "kwota": 257.80,
       "opis": "Tankowanie"
+    },
+    {
+      "data": "2025-08-29",
+      "kategoria": "Filtr",
+      "kwota": 93.78 ,
+      "opis": "Sól do filtra"
     }
   ]
 }

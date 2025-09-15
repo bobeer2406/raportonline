@@ -203,6 +203,18 @@
       "kategoria": "Ford",
       "kwota": 1781,
       "opis": "Polisa Ford"
+    },
+    {
+      "data": "2025-09-12",
+      "kategoria": "Ford",
+      "kwota": 410.24,
+      "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2025-09-13",
+      "kategoria": "Honda",
+      "kwota": 237.20,
+      "opis": "Tankowanie 95"
     }
   ]
 }

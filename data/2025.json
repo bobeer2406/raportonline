@@ -215,6 +215,12 @@
       "kategoria": "Honda",
       "kwota": 237.20,
       "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2025-09-16",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Wrzesień"
     }
   ]
 }

@@ -221,6 +221,12 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Wrzesień"
+    },
+    {
+      "data": "2025-10-14",
+      "kategoria": "PGE",
+      "kwota": 934.79,
+      "opis": "Prąd Sierpień/Wrzesień"
     }
   ]
 }

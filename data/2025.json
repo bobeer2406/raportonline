@@ -227,6 +227,18 @@
       "kategoria": "PGE",
       "kwota": 934.79,
       "opis": "Prąd Sierpień/Wrzesień"
+    },
+    {
+      "data": "2025-10-08",
+      "kategoria": "Honda",
+      "kwota": 249.03,
+      "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2025-10-06",
+      "kategoria": "Ford",
+      "kwota": 389.95,
+      "opis": "ON Tankowanie"
     }
   ]
 }

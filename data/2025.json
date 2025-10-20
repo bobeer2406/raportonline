@@ -239,6 +239,12 @@
       "kategoria": "Ford",
       "kwota": 389.95,
       "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2025-10-20",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Październik"
     }
   ]
 }

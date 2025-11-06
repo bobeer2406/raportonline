@@ -245,6 +245,12 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Październik"
+    },
+    {
+      "data": "2025-11-06",
+      "kategoria": "Filtr",
+      "kwota": 93.97,
+      "opis": "Sól do filtra"
     }
   ]
 }

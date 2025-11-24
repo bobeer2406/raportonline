@@ -251,6 +251,18 @@
       "kategoria": "Filtr",
       "kwota": 93.97,
       "opis": "Sól do filtra"
+    },
+    {
+      "data": "2025-11-24",
+      "kategoria": "Serwis Piec",
+      "kwota": 400,
+      "opis": "Serwis Pieca"
+    },
+    {
+      "data": "2025-11-25",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Listopad"
     }
   ]
 }

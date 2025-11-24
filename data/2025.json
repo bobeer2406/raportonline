@@ -263,6 +263,18 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Listopad"
+    },
+    {
+      "data": "2025-11-25",
+      "kategoria": "szambo",
+      "kwota": 280,
+      "opis": "Szambo Listopad"
+    },
+    {
+      "data": "2025-11-22",
+      "kategoria": "Ford",
+      "kwota": 400,
+      "opis": "ON Tankowanie"
     }
   ]
 }

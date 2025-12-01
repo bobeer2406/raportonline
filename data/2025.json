@@ -275,6 +275,18 @@
       "kategoria": "Ford",
       "kwota": 400,
       "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2025-11-29",
+      "kategoria": "Honda",
+      "kwota": 244.66,
+      "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2025-12-01",
+      "kategoria": "PGE",
+      "kwota": 904.10,
+      "opis": "Prąd Październik/Listopad"
     }
   ]
 }

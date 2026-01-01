@@ -299,6 +299,18 @@
       "kategoria": "szambo",
       "kwota": 280,
       "opis": "Szambo Grudzień"
+    },
+    {
+      "data": "2025-12-31",
+      "kategoria": "Honda",
+      "kwota": 240.20,
+      "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2026-01-01",
+      "kategoria": "Ford",
+      "kwota": 381.30,
+      "opis": "ON Tankowanie"
     }
   ]
 }

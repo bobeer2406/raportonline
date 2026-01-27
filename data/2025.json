@@ -329,6 +329,18 @@
       "kategoria": "Ford",
       "kwota": 381.30,
       "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2026-01-17",
+      "kategoria": "Ford",
+      "kwota": 409.10,
+      "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2026-01-26",
+      "kategoria": "szambo",
+      "kwota": 320,
+      "opis": "Szambo styczen"
     }
   ]
 }

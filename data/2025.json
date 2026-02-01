@@ -337,10 +337,16 @@
       "opis": "ON Tankowanie"
     },
     {
-      "data": "2026-01-26",
-      "kategoria": "szambo",
-      "kwota": 320,
-      "opis": "Szambo styczen"
+      "data": "2026-01-31",
+      "kategoria": "Honda",
+      "kwota": 220.81,
+      "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2026-01-31",
+      "kategoria": "Ford",
+      "kwota": 299.10,
+      "opis": "Filtry,olej"
     }
   ]
 }

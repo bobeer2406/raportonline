@@ -347,6 +347,12 @@
       "kategoria": "Ford",
       "kwota": 299.10,
       "opis": "Filtry,olej"
+    },
+    {
+      "data": "2026-01-31",
+      "kategoria": "PGE",
+      "kwota": 1159.08,
+      "opis": "Prąd Grudzień/Styczeń"
     }
   ]
 }

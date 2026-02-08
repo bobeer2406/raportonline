@@ -353,6 +353,18 @@
       "kategoria": "PGE",
       "kwota": 1159.08,
       "opis": "Prąd Grudzień/Styczeń"
+    },
+    {
+      "data": "2025-02-08",
+      "kategoria": "Podatek",
+      "kwota": 270,
+      "opis": "Podatek ziemia 2025"
+    },
+    {
+      "data": "2026-02-08",
+      "kategoria": "Podatek",
+      "kwota": 283,
+      "opis": "Podatek ziemia 2026"
     }
   ]
 }

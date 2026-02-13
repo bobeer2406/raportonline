@@ -365,6 +365,12 @@
       "kategoria": "Podatek",
       "kwota": 283,
       "opis": "Podatek ziemia 2026"
+    },
+    {
+      "data": "2026-01-26",
+      "kategoria": "Szambo",
+      "kwota": 320,
+      "opis": "Szambo styczeń"
     }
   ]
 }

@@ -361,9 +361,15 @@
       "opis": "Podatek ziemia 2026"
     },
     {
-      "data": "2026-02-26",
+      "data": "2026-01-2",
       "kategoria": "szambo",
       "kwota": 320,
+      "opis": "Szambo 2026.01"
+    },
+    {
+      "data": "2026-02-26",
+      "kategoria": "szambo",
+      "kwota": 300,
       "opis": "Szambo 2026.02"
     },
     {
@@ -375,7 +381,7 @@
     {
       "data": "2026-03-20",
       "kategoria": "szambo",
-      "kwota": 320,
+      "kwota": 300,
       "opis": "Szambo 2026.03"
     }
   ]

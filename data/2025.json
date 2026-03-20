@@ -361,16 +361,22 @@
       "opis": "Podatek ziemia 2026"
     },
     {
-      "data": "2026-01-26",
-      "kategoria": "Szambo",
+      "data": "2026-02-26",
+      "kategoria": "szambo",
       "kwota": 320,
-      "opis": "Szambo styczeń"
+      "opis": "Szambo Luty"
     },
     {
       "data": "2026-02-25",
       "kategoria": "Honda",
       "kwota": 247,
       "opis": "Tankowanie 95"
+    },
+    {
+      "data": "2026-02-20",
+      "kategoria": "szambo",
+      "kwota": 320,
+      "opis": "Szambo Marzec"
     }
   ]
 }

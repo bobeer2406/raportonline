@@ -383,6 +383,12 @@
       "kategoria": "szambo",
       "kwota": 300,
       "opis": "Szambo 2026.03"
+    },
+    {
+      "data": "2026-03-22",
+      "kategoria": "Ford",
+      "kwota": 450,
+      "opis": "ON Tankowanie"
     }
   ]
 }

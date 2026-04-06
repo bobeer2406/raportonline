@@ -389,6 +389,12 @@
       "kategoria": "Ford",
       "kwota": 450,
       "opis": "ON Tankowanie"
+    },
+    {
+      "data": "2026-04-06",
+      "kategoria": "PGE",
+      "kwota": 970.92,
+      "opis": "Prąd Luty/Marzec"
     }
   ]
 }

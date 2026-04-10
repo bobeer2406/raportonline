@@ -395,6 +395,18 @@
       "kategoria": "PGE",
       "kwota": 970.92,
       "opis": "Prąd Luty/Marzec"
+    },
+    {
+      "data": "2026-04-10",
+      "kategoria": "Filtr",
+      "kwota": 97.58,
+      "opis": "Sól do filtra"
+    },
+    {
+      "data": "2026-04-10",
+      "kategoria": "Filtr",
+      "kwota": 341,
+      "opis": "Nadmanganian potasu"
     }
   ]
 }

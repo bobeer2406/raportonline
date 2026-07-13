@@ -419,6 +419,18 @@
       "kategoria": "szambo",
       "kwota": 300,
       "opis": "Szambo 2026.04"
+    },
+    {
+      "data": "2026-07-06",
+      "kategoria": "PGE",
+      "kwota": 888.01,
+      "opis": "Prąd Czerwiec/Lipiec"
+    },
+    {
+      "data": "2025-07-13",
+      "kategoria": "Podatek",
+      "kwota": 739,
+      "opis": "Podatek dom 2026"
     }
   ]
 }

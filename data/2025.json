@@ -431,6 +431,18 @@
       "kategoria": "Podatek",
       "kwota": 739,
       "opis": "Podatek dom 2026"
+    },
+    {
+      "data": "2026-07-16",
+      "kategoria": "szambo",
+      "kwota": 300,
+      "opis": "Szambo 2026.07"
+    },
+    {
+      "data": "2026-06-02",
+      "kategoria": "szambo",
+      "kwota": 300,
+      "opis": "Szambo 2026.06"
     }
   ]
 }

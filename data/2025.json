@@ -449,6 +449,12 @@
       "kategoria": "PGE",
       "kwota": 931.44,
       "opis": "Prąd Czerwiec/Lipiec"
+    },
+    {
+      "data": "2026-08-22",
+      "kategoria": "szambo",
+      "kwota": 300,
+      "opis": "Szambo 2026.08"
     }
   ]
 }

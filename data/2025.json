@@ -86,7 +86,7 @@
     },
 	{
       "data": "2025-05-05",
-      "kategoria": "Gaz",
+      "kategoria": "Gaz 2025",
       "kwota": 4536,
       "opis": "Tankowanie HEM GAZ 1,89 - 2 500 l"
     },
@@ -455,6 +455,12 @@
       "kategoria": "szambo",
       "kwota": 300,
       "opis": "Szambo 2026.08"
+    },
+{
+      "data": "2026-09-01",
+      "kategoria": "Gaz 2026",
+      "kwota": 3570,
+      "opis": "Tankowanie małopole 2,10 - 1700 l"
     }
   ]
 }

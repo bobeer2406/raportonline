@@ -473,6 +473,12 @@
       "kategoria": "szambo",
       "kwota": 300,
       "opis": "Szambo 2026.09"
+    },
+    {
+      "data": "2026-10-07",
+      "kategoria": "PGE",
+      "kwota": 1090.82 ,
+      "opis": "Prąd Sierpień/Wrzesień"
     }
   ]
 }
